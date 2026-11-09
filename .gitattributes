@@ -1,0 +1,4 @@
+# Count this repository as Java on GitHub; generated reports are not source
+*.html linguist-generated
+*.css linguist-generated
+*.js linguist-generated

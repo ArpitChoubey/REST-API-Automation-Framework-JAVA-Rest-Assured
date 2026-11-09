@@ -1,1 +1,7 @@
 /target/
+
+# Generated test reports and logs
+test-output/
+Reports/
+logs/
+target/
